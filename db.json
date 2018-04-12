@@ -1,16 +1,16 @@
 {
     "data": [
         {
-            "id": 4,
-            "first_name": "Eve",
-            "last_name": "Holt",
-            "avatar": "https://statusandphoto.weebly.com/uploads/6/0/1/5/60158603/8347592_orig.png"
-        },
-        {
             "id": 5,
             "first_name": "Charles",
             "last_name": "Morris",
             "avatar": "http://static3.uk.businessinsider.com/image/589a1765dd0895cb6e8b49f8-1200/.jpg"
+        },
+        {
+            "id": 4,
+            "first_name": "Eve",
+            "last_name": "Holt",
+            "avatar": "https://statusandphoto.weebly.com/uploads/6/0/1/5/60158603/8347592_orig.png"
         },
         {
             "id": 6,
