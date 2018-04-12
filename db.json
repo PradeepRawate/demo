@@ -18,5 +18,8 @@
             "last_name": "Ramos",
             "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/bigmancho/128.jpg"
         }
-    ]
+    ],
+    "profile": {
+        "name": "typicode"
+    }
 }
