@@ -1,11 +1,5 @@
 {
 	"data": [{
-			"id": 5,
-			"first_name": "Charles",
-			"last_name": "Morris",
-			"avatar": "http://static3.uk.businessinsider.com/image/589a1765dd0895cb6e8b49f8-1200/.jpg"
-		},
-		{
 			"id": 6,
 			"first_name": "Tracey",
 			"last_name": "Ramos",
